@@ -1,0 +1,12 @@
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\bin\Debug\AgwpePort.dll
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\bin\Debug\KISSTNC.exe
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\bin\Debug\KISSTNC.pdb
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\obj\Debug\KISSTNC.exe
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\obj\Debug\KISSTNC.pdb
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\KISSTNC\obj\Debug\KISSTNC.exe
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\KISSTNC\obj\Debug\KISSTNC.pdb
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\KISSTNC\bin\Debug\KISSTNC.exe
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\KISSTNC\bin\Debug\KISSTNC.pdb
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\KISSTNC\bin\Debug\AgwpePort.dll
+D:\PROJECTS\BaoFeng 2-Way Radio HAM (Рации)\HAM\APRS\MyAPRSSoft\KISSTNC\obj\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\bin\Debug\GPWPL.exe
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\bin\Debug\GPWPL.pdb
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\obj\Debug\ResolveAssemblyReference.cache
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\obj\Debug\GPWPL.exe
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\obj\Debug\GPWPL.pdb
+C:\Downloads\CD-REC\TEST\GPWPL\GPWPL\bin\Debug\AgwpePort.dll
